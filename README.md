@@ -1,5 +1,5 @@
-# SmartBrain - v2
-Final project for Udemy course
+# Face-ify -
+Facial recognition website.
 
 1. Clone this repo
 2. Run `npm install`
